@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<organisation>
+    <name>KRONOS</name>
+    <departments>
+        <department>
+            <deptNo>D01</deptNo>
+            <deptName>ACCOUNTING</deptName>
+            <location>NEW YORK</location>
+            <employees>
+                <employee>
+                    <empNo>E01</empNo>
+                    <empName>Tom</empName>
+                </employee>
+                <employee>
+                    <empNo>E02</empNo>
+                    <empName>Mary</empName>
+                    <managerNo>E01</managerNo>
+                </employee>
+                <employee>
+                    <empNo>E03</empNo>
+                    <empName>John</empName>
+                </employee>
+            </employees>
+        </department>
+        <department>
+            <deptNo>D02</deptNo>
+            <deptName>MANAGER</deptName>
+            <location>LONDON</location>
+            <employees>
+                <employee>
+                    <empNo>E04</empNo>
+                    <empName>Allison</empName>
+                </employee>
+                <employee>
+                    <empNo>E05</empNo>
+                    <empName>Jack</empName>
+                </employee>
+            </employees>
+        </department>
+    </departments>
+</organisation>
